@@ -1,4 +1,4 @@
-demonstrative AI integrated news sentiment analyzer API for thesis\
+demonstrative AI integrated news sentiment analysis API for thesis\
 ignored files include `NewsUris.cs`, `launchSettings.json` and `appSettings.json` (w/ openai api key) and entire frontend in react
 
 # flow and architecture
