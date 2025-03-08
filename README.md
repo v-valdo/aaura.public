@@ -36,7 +36,7 @@ the analytical prompt:
 - asks for short reasoning and exact response format (for backend parsing to work)
 - attaches all scraped news **titles** and **descriptions**
 
-**Should** generate two values:
+**Should** generate two values:\
   SCORE\
   REASONING
 
