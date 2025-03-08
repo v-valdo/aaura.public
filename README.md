@@ -64,5 +64,8 @@ the image prompt:
 
 ![scoredemo](https://github.com/user-attachments/assets/967c7a71-f864-41c8-8266-282a2e416ff0)
 
+## img
+![expicture](https://github.com/user-attachments/assets/f235ea83-2be6-4a96-8080-0e829a805fe0)
+
 
 
