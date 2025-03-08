@@ -37,7 +37,7 @@ the analytical prompt:
 - attaches all scraped news **titles** and **descriptions**
 
 **Should** generate two values:
-  SCORE
+  SCORE\
   REASONING
 
 the image prompt:
